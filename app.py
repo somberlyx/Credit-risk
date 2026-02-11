@@ -1,0 +1,1 @@
+# 1 = Good (Lower Risk), 2 = Bad (Higher Risk)
